@@ -26,7 +26,7 @@ const Sidebar = () => {
       </NavLink>
       <ProfileContainer>
         <ProfileImage src="/images/client4.png" alt="User Profile" />
-        <ProfileName>Talla Kebe</ProfileName>
+        <ProfileName>Mor Talla Kebe</ProfileName>
       </ProfileContainer>
     </SidebarContainer>
   );
